@@ -12,6 +12,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 * Hugo Kioshi Ito
 * Samuel Leite Fonseca
+* Thais Rodrigues Dantas
 * Thiago Álvaro Barbosa Fraga
 * Naiara Julieta Maria Carvalho Mafra
 

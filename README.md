@@ -17,7 +17,8 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Orientador
 
-* Nome completo do professor 1
+* Sandra Maria Silveira professor(a)
+* Joyce Christina de Paiva Carvalho coordenador(a)
 
 ## Instruções de utilização
 

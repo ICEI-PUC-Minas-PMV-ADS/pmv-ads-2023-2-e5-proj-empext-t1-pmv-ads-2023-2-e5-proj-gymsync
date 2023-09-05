@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# GymSync - Gestão de Academia
 
 `Analise de Desenvolvimento de Sistema - EAD`
 

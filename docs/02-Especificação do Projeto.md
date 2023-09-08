@@ -56,8 +56,12 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01| O projeto deverá ser entregue no final do semestre letivo. |
+|02| O aplicativo deve se restringir às tecnologias básicas da Web de FrontEnd e Backend        |
+|03| A equipe não pode subcontratar terceiros para o desenvolvimento do trabalho        |
+|04| O projeto não pode ser feito por um único integrante do grupo        |
+|05| As decisões pertinentes ao projeto devem ser tomadas por meio democrático de votação        |
+|06| O projeto deve estar em conformidade com as leis e normas vigentes        |
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 

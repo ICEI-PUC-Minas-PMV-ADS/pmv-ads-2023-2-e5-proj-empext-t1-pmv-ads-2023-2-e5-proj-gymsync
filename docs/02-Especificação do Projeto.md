@@ -32,8 +32,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-||ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
 |RNF-001| O App ou site será publicado em um ambiente na Internet. (Azure) | ALTA | 
 |RNF-002| A aplicação web será compatível com os principais navegadores do mercado. |  ALTA | 
 |RNF-003| A aplicação web deve ser confiável, deve atender às suas especificações. |  MÉDIA | 

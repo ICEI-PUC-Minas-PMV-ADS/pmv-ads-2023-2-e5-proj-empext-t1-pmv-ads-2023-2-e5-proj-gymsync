@@ -6,7 +6,9 @@ Esta seção detalha o problema e a ideia de solução do projeto do ponto de vi
 
 ## Arquitetura e Tecnologias
 
-o	Descreva brevemente a arquitetura definida para o projeto e as tecnologias a serem utilizadas. Sugere-se a criação de um diagrama de componentes da solução.
+Para atender os requisitos funcionais e não funcionais propomos a seguinte arquitetura.
+
+![arquitetura](img/arquitetura.png)
 
 ## Project Model Canvas
 

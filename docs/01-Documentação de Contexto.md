@@ -19,12 +19,9 @@ O objetivo geral deste projeto é desenvolver um software que solucione os probl
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+A importância deste projeto reside na melhoria da eficiência operacional do Studio Feminino e na satisfação das clientes. A automação dos processos de cadastro de clientes, controle financeiro e criação de fichas de treino economizará tempo, reduzirá erros e permitirá que a Parceira ************* e sua equipe se concentrem mais no atendimento personalizado às clientes.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A motivação para aprofundar-se nesses aspectos do software é garantir que o Studio Feminino possa atender de maneira mais eficaz às necessidades de suas clientes, proporcionando um ambiente mais organizado e melhorando a qualidade dos serviços oferecidos.
 
 ## Relação com a Extensão Universitária
 

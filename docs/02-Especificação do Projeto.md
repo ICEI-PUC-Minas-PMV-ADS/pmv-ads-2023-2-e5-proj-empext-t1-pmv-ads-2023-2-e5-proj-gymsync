@@ -2,9 +2,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+Esta seção detalha o problema e a ideia de solução do projeto do ponto de vista do usuário. Inclui a definição do diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais, bem como as restrições do projeto.
 
 ## Arquitetura e Tecnologias
 

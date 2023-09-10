@@ -9,12 +9,13 @@ Este contexto requer uma solução tecnológica que possa otimizar esses process
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral deste projeto é desenvolver um software que solucione os problemas identificados no Studio Feminino, melhorando a gestão de clientes, o controle financeiro e a criação de fichas de treino personalizadas. Além disso, alguns objetivos específicos incluem:
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+- Criar uma ficha de cadastro de clientes com os seguintes campos: nome, telefone, email, data de nascimento, objetivo e informações sobre medicação, permitindo uma melhor comunicação e acompanhamento das necessidades das clientes.
+
+- Implementar um sistema de controle de caixa básico para registrar as transações financeiras do estúdio, fornecendo uma visão clara das finanças.
+
+- Desenvolver uma interface de usuário amigável que permita o acesso das colaboradoras do Studio Feminino para registrar informações e criar fichas de treino personalizadas.
 
 ## Justificativa
 

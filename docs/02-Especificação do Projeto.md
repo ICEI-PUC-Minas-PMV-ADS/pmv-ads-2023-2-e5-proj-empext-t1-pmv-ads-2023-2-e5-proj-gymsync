@@ -25,9 +25,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-001| O sistema deve permitir que os profissionais façam login. | ALTA |
 |RF-002| O sistema deve permitir que os profissionais alterem a senha. | ALTA |
-|RF-003| O sistema deve permitir gerenciar cadastro de profissionais como incluir/alterar/excluir pelo administrador. | ALTA |
-|RF-004| O sistema deve permitir gerenciar cadastro de alunos como incluir/alterar/excluir. | ALTA |
-|RF-005| O sistema deverá possibilitar pesquisar os alunos. | ALTA |
+|RF-003| O sistema deve permitir gerenciar cadastro de profissionais pelo administrador. (incluir/alterar/excluir ) | ALTA |
+|RF-004| O sistema deve permitir gerenciar cadastro de alunos. (incluir/alterar/excluir) | ALTA |
+|RF-005| O sistema deve conter um acompanhamento financeiro. | ALTA |
+|RF-006| O sistema deve possibilitar pesquisar os alunos. | ALTA |
+|RF-007| O sistema deve conter uma agenda/lembretes. (Data de aniversário, compromissos financeiros) | ALTA |
+|RF-008| O sistema deve conter um canal de postagem de informação geral. | ALTA |
+
 
 ### Requisitos não Funcionais
 
@@ -37,7 +41,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-002| A aplicação web será compatível com os principais navegadores do mercado. |  ALTA | 
 |RNF-003| A aplicação web deve ser confiável, deve atender às suas especificações. |  MÉDIA | 
 |RNF-004| A aplicação web deve tratar acessos não autorizados, garantindo um alto grau de segurança. |  MÉDIA | 
-|RNF-005| A interface da aplicação deve ser amigável, ou seja deve se sentir confortável ao utilizar o site, de forma que sua experiência torna-se fácil. |  BAIXA | 
+|RNF-005| A interface da aplicação deve ser amigável, ou seja deve se sentir confortável ao utilizar o site, de forma que sua experiência torne-se fácil. |  BAIXA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 

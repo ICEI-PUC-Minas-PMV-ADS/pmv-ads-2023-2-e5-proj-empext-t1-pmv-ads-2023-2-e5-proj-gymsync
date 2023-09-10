@@ -3,16 +3,9 @@
 O projeto em questão tem como objetivo criar uma solução de software para atender às necessidades de um Studio Feminino, com a colaboração da Parceira que é professora e administradora do negócio ********. A solução visa melhorar a eficiência das operações do Studio Feminino, oferecendo recursos essenciais para a gestão do negócio e aprimorando a experiência das clientes.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+O Studio Feminino enfrenta desafios relacionados à gestão de clientes, controle financeiro e oferecimento de treinos personalizados. Atualmente, essas tarefas são realizadas manualmente, o que pode resultar em erros, falta de eficiência e perda de tempo. Além disso, a falta de um sistema centralizado dificulta o acompanhamento dos objetivos das clientes e a gestão adequada dos recursos do estúdio.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Este contexto requer uma solução tecnológica que possa otimizar esses processos, garantindo uma experiência mais satisfatória para as clientes e facilitando a administração do Studio Feminino.
 
 ## Objetivos
 

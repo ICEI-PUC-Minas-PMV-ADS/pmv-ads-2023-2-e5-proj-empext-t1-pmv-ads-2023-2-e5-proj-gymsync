@@ -28,9 +28,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-003| O sistema deve permitir gerenciar cadastro de profissionais pelo administrador. (incluir/alterar/excluir ) | ALTA |
 |RF-004| O sistema deve permitir gerenciar cadastro de alunos. (incluir/alterar/excluir) | ALTA |
 |RF-005| O sistema deve conter um acompanhamento financeiro contas a pagar e receber. | ALTA |
-|RF-006| O sistema deve possibilitar pesquisar os alunos. | ALTA |
-|RF-007| O sistema deve conter uma agenda/lembretes. (Data de aniversário, compromissos financeiros) | ALTA |
-|RF-008| O sistema deve conter um canal de postagem de informação geral. | ALTA |
+|RF-006| O sistema deve gerar relatorio financeiror. | MEDIO |
+|RF-007| O sistema deve possibilitar pesquisar os alunos. | MEDIO |
+|RF-008| O sistema deve conter uma agenda/lembretes. (Data de aniversário, compromissos financeiros) | ALTA |
+|RF-009| O sistema deve conter um canal de postagem de informação geral. | ALTA |
 
 
 ### Requisitos não Funcionais

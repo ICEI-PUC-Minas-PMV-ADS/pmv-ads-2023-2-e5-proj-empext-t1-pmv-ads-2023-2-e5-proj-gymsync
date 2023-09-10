@@ -30,4 +30,6 @@ Através deste projeto, os alunos têm a oportunidade de contribuir com a socied
 
 ## Descrição do Parceiro
 
-Apresente uma descrição resumida sobre a organização onde o projeto será desenvolvido para que possa ser compreendido o cenário sistema sociotécnico.
+O parceiro neste projeto é o Studio Feminino, um espaço dedicado ao bem-estar e ao condicionamento físico feminino, administrado pela **************************** que é professora e gestora do Studio. O estúdio oferece uma variedade de serviços, incluindo treinamento funcional, musculação e atendimento personalizado. A parceira desempenha um papel fundamental na gestão e no atendimento às clientes, garantindo um ambiente acolhedor e seguro.
+
+A colaboração com o Studio Feminino permitirá que o projeto se baseie nas necessidades específicas do estúdio, adaptando a solução de software de acordo com as práticas e os objetivos do negócio. Essa parceria é essencial para o sucesso do projeto, pois a professora Sandra e sua equipe fornecerão insights valiosos sobre como a solução pode ser mais eficaz para atender às demandas das clientes e otimizar as operações do estúdio.

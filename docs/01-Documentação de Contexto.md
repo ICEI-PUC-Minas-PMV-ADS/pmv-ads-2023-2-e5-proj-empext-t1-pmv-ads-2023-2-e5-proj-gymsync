@@ -34,7 +34,7 @@ Diante desses desafios, nossa equipe reconheceu a necessidade premente de uma so
 ## Justificativa
 
 A criação desta ferramenta é motivada por uma série de razões fundamentais que visam resolver problemas com o conhecimento e acesso à tecnologia aplicada como ferramenta facilitadora, melhorando significativamente a experiência tanto dos profissionais do setor quanto dos clientes. Ao abordar esses desafios fundamentais, nossa ferramenta poderá apoiar o crescimento de estúdios e melhorar a experiência dos clientes. Além disso, ela reflete nosso compromisso com a promoção da saúde e do bem-estar, tornando o fitness mais acessível, eficaz e gratificante para todos os envolvidos.
-A importância deste projeto reside na melhoria da eficiência operacional do Studio Feminino e na satisfação das clientes. A automação dos processos de cadastro de clientes, controle financeiro e criação de fichas de treino economizará tempo, reduzirá erros e permitirá que a Parceira ************* e sua equipe se concentrem mais no atendimento personalizado às clientes.
+A importância deste projeto reside na melhoria da eficiência operacional do Studio Feminino e na satisfação das clientes. A automação dos processos de cadastro de clientes, controle financeiro e criação de fichas de treino economizará tempo, reduzirá erros e permitirá que a Parceira Sabrina Marinho e sua equipe se concentrem mais no atendimento personalizado às clientes.
 
 A motivação para aprofundar-se nesses aspectos do software é garantir que o Studio Feminino possa atender de maneira mais eficaz às necessidades de suas clientes, proporcionando um ambiente mais organizado e melhorando a qualidade dos serviços oferecidos.
 

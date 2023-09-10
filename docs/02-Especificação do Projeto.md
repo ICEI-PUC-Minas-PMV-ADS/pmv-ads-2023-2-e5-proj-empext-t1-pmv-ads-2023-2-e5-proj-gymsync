@@ -28,8 +28,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001| O sistema deve permitir que os profissionais façam login. | ALTA |
 |RF-002| O sistema deve permitir que os profissionais alterem a senha. | ALTA |
 |RF-003| O sistema deve permitir gerenciar cadastro de profissionais pelo administrador. (incluir/alterar/excluir ) | ALTA |
-|RF-004| O sistema deve permitir gerenciar cadastro de alunos. (incluir/alterar/excluir) | ALTA |
-|RF-005| O sistema deve permitir gerenciar ficha de cadastro de atividades do aluno.(incluir/alterar/excluir) | ALTA |
+|RF-004| O sistema deve permitir gerenciar cadastro e matricula de aluno. (incluir/alterar/excluir) | ALTA |
+|RF-005| O sistema deve permitir gerenciar cadastro de treino do aluno.(incluir/alterar/excluir) | ALTA |
 |RF-006| O sistema deve conter um acompanhamento financeiro contas a pagar e receber. | ALTA |
 |RF-007| O sistema deve gerar relatorio financeiror. | MEDIO |
 |RF-008| O sistema deve possibilitar pesquisar os alunos. | MEDIO |

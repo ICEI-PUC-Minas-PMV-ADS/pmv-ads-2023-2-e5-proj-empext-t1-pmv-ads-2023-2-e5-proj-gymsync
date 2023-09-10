@@ -1,24 +1,39 @@
 # Introdução
 
-O projeto em questão tem como objetivo criar uma solução de software para atender às necessidades de um Studio Feminino, com a colaboração da Parceira que é professora e administradora do negócio ********. A solução visa melhorar a eficiência das operações do Studio Feminino, oferecendo recursos essenciais para a gestão do negócio e aprimorando a experiência das clientes.
+A busca por um estilo de vida mais saudável e ativo tornou-se uma prioridade crescente para muitas pessoas em todo o mundo. Com o aumento da conscientização sobre os benefícios do exercício físico e da atividade física regular, o estúdio personal, vem ganhando destaque como local onde os indivíduos podem alcançar seus objetivos de saúde e bem-estar de forma personalizada e eficaz. No entanto, a gestão e o controle eficazes desses estúdios representam um desafio significativo.
+Neste contexto, apresentamos o projeto para desenvolvimento de uma ferramenta para o Stúdio Personal Sabrina Marinho. Nosso objetivo é criar uma solução que facilite a administração eficiente na área fitness, permitindo que os profissionais, pequeno empreendedor, desfrute de uma experiência mais eficaz e gratificante.
+A ferramenta de controle visa abordar várias áreas-chave, incluindo uma agenda, o acompanhamento do progresso do cliente, a gestão de pagamentos, centralização de comunicação da equipe e muito mais.
+Neste documento, apresentaremos uma visão geral abrangente do nosso projeto, incluindo os objetivos, os recursos planejados, as etapas de desenvolvimento e os benefícios esperados. Queremos poder colaborar no desenvolvimento de uma ferramenta que traga facilidade, agilidade, controle, comunicação e quem sabe, métricas para demonstração de resultados. E assim, proporcionar a mudança que a tecnologia pode trazer para pequenos negócios do setor de fitness.
+
 
 ## Problema
-O Studio Feminino enfrenta desafios relacionados à gestão de clientes, controle financeiro e oferecimento de treinos personalizados. Atualmente, essas tarefas são realizadas manualmente, o que pode resultar em erros, falta de eficiência e perda de tempo. Além disso, a falta de um sistema centralizado dificulta o acompanhamento dos objetivos das clientes e a gestão adequada dos recursos do estúdio.
+Conforme observado, o Stúdio personal Sabrina Marinho enfrenta uma série de desafios complexos que afetam a eficiência operacional e até mesmo a experiência dos clientes. Nosso levantamento destaca áreas críticas que carecem de soluções eficazes. São eles:
+1.	Controle Financeiro: Problema com a gestão de suas finanças. O controle de receitas, despesas, pagamentos de clientes e despesas operacionais tem impactado em horários extra e sido suscetível a erros. Isso pode resultar em problemas de fluxo de caixa, dificuldades na identificação de tendências financeiras e incertezas sobre a saúde financeira do estúdio.
+2.	Dificuldade no Gerenciamento dos Planos de Aula: O gerenciamento de um plano de aula padrão e a existência de um registro destes treinos já ministrados, apresenta um desafio significativo. A falta de ferramentas adequadas para criar, programar e ajustar planos de aula visa otimizar tempo e fundir informações importantes.
+3.	Falha na Comunicação entre Professores: A comunicação eficaz entre os professores pode ser melhorada e é essencial para garantir que os clientes recebam a melhor orientação possível. A falta de uma plataforma centralizada para compartilhar informações sobre clientes, seus objetivos e seu progresso, resulta em lacunas na coordenação e na prestação de um serviço de alta qualidade.
+4.	Dificuldade na Demonstração de Progresso dos Alunos: A capacidade de rastrear e demonstrar o progresso dos alunos é fundamental para manter a motivação e o engajamento. A ausência de parâmetro, e/ou ferramenta para monitoramento do progresso físico não permite a visualização de resultados alcançados o que dificulta a demonstração do impacto positivo do treinamento e da orientação.
 
-Este contexto requer uma solução tecnológica que possa otimizar esses processos, garantindo uma experiência mais satisfatória para as clientes e facilitando a administração do Studio Feminino.
 
 ## Objetivos
 
-O objetivo geral deste projeto é desenvolver um software que solucione os problemas identificados no Studio Feminino, melhorando a gestão de clientes, o controle financeiro e a criação de fichas de treino personalizadas. Além disso, alguns objetivos específicos incluem:
+Diante desses desafios, nossa equipe reconheceu a necessidade premente de uma solução que proporcione controle operacional/financeiro eficiente, melhor comunicação e gestão de informações, sendo estas, questões críticas declaradas pelo Parceiro. Iremos atuar com foco em uma ferramenta para mitigar os problemas levantados e, trabalhar sempre com a possibilidade de inovação, podendo fazer uso de ideias levantadas pela equipe. Para entender o funcionamento específico e propor implementações futuras a reunião com o Parceiro Stúdio Personal Sabrina Marinho nos trouxe pontos que podem ser utilizados. Que são os casos de gerenciamento dos planos de aula e demonstração de progresso dos alunos, adendos de uma possível implementação.
 
-- Criar uma ficha de cadastro de clientes com os seguintes campos: nome, telefone, email, data de nascimento, objetivo e informações sobre medicação, permitindo uma melhor comunicação e acompanhamento das necessidades das clientes.
+• Criar uma ficha de cadastro de clientes com os seguintes campos: nome, telefone, email, data de nascimento, objetivo e informações sobre medicação, permitindo uma melhor comunicação e acompanhamento das necessidades das clientes.
 
-- Implementar um sistema de controle de caixa básico para registrar as transações financeiras do estúdio, fornecendo uma visão clara das finanças.
+• Implementar um sistema de controle de caixa básico para registrar as transações financeiras do estúdio, fornecendo uma visão clara das finanças.
 
-- Desenvolver uma interface de usuário amigável que permita o acesso das colaboradoras do Studio Feminino para registrar informações e criar fichas de treino personalizadas.
+• Desenvolver uma interface de usuário amigável que permita o acesso das colaboradoras do Studio Feminino para registrar informações e criar fichas de treino personalizadas.
+
+•	Propiciar melhor controle de informações entre os professores;
+
+•	Gerenciamento e histórico de treinos;
+
+•	Visualização de progresso dos alunos.
+
 
 ## Justificativa
 
+A criação desta ferramenta é motivada por uma série de razões fundamentais que visam resolver problemas com o conhecimento e acesso à tecnologia aplicada como ferramenta facilitadora, melhorando significativamente a experiência tanto dos profissionais do setor quanto dos clientes. Ao abordar esses desafios fundamentais, nossa ferramenta poderá apoiar o crescimento de estúdios e melhorar a experiência dos clientes. Além disso, ela reflete nosso compromisso com a promoção da saúde e do bem-estar, tornando o fitness mais acessível, eficaz e gratificante para todos os envolvidos.
 A importância deste projeto reside na melhoria da eficiência operacional do Studio Feminino e na satisfação das clientes. A automação dos processos de cadastro de clientes, controle financeiro e criação de fichas de treino economizará tempo, reduzirá erros e permitirá que a Parceira ************* e sua equipe se concentrem mais no atendimento personalizado às clientes.
 
 A motivação para aprofundar-se nesses aspectos do software é garantir que o Studio Feminino possa atender de maneira mais eficaz às necessidades de suas clientes, proporcionando um ambiente mais organizado e melhorando a qualidade dos serviços oferecidos.
@@ -30,6 +45,6 @@ Através deste projeto, os alunos têm a oportunidade de contribuir com a socied
 
 ## Descrição do Parceiro
 
-O parceiro neste projeto é o Studio Feminino, um espaço dedicado ao bem-estar e ao condicionamento físico feminino, administrado pela **************************** que é professora e gestora do Studio. O estúdio oferece uma variedade de serviços, incluindo treinamento funcional, musculação e atendimento personalizado. A parceira desempenha um papel fundamental na gestão e no atendimento às clientes, garantindo um ambiente acolhedor e seguro.
+O parceiro neste projeto é o Studio Feminino, um espaço dedicado ao bem-estar e ao condicionamento físico feminino, administrado pela Sabrina Júnia Marinho que é professora e gestora do Studio. O estúdio oferece uma variedade de serviços, incluindo treinamento funcional, musculação e atendimento personalizado. A parceira desempenha um papel fundamental na gestão e no atendimento às clientes, garantindo um ambiente acolhedor e seguro.
 
 A colaboração com o Studio Feminino permitirá que o projeto se baseie nas necessidades específicas do estúdio, adaptando a solução de software de acordo com as práticas e os objetivos do negócio. Essa parceria é essencial para o sucesso do projeto, pois a professora Sandra e sua equipe fornecerão insights valiosos sobre como a solução pode ser mais eficaz para atender às demandas das clientes e otimizar as operações do estúdio.

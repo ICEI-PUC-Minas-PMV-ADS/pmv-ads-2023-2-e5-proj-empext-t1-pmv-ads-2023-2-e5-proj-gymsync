@@ -88,9 +88,9 @@ Na Linguagem de modelagem unificada (UML), o diagrama de caso de uso resume os d
 
 Características dos Diagramas de Casos de Uso:
 <br>●Mostram um conjunto de casos de uso, atores e seus relacionamentos.<br>
-●Modelam aspectos dinâmicos do sistema.
-●Proporcionam uma representação contextual do sistema (fronteira explícita).
-●Indicam a forma como o sistema interage com as entidades externas (atores). 
+<br>●Modelam aspectos dinâmicos do sistema.<br<
+<br>●Proporcionam uma representação contextual do sistema (fronteira explícita).<br>
+<br>●Indicam a forma como o sistema interage com as entidades externas (atores).<br>
 
 ![https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-gymsync/blob/main/docs/img/Diagrama%20de%20Casos%20de%20Uso.png]
 

@@ -12,7 +12,7 @@ Para atender os requisitos funcionais e não funcionais propomos a seguinte arqu
 
 ## Project Model Canvas
 
-![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-gymsync/blob/main/docs/img/Project%20Model%20Canvas.jpg)
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-gymsync/blob/main/docs/img/Project%20Model%20Canvas.png)
 
 > **Links Úteis**:
 > Disponíveis em material de apoio do projeto

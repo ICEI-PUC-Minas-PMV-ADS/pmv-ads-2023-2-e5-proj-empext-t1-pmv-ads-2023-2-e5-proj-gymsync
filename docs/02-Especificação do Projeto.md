@@ -92,11 +92,11 @@ Características dos Diagramas de Casos de Uso:
 ●Proporcionam uma representação contextual do sistema (fronteira explícita).
 ●Indicam a forma como o sistema interage com as entidades externas (atores). 
 
-![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-gymsync/blob/main/docs/img/Diagrama%20de%20Casos%20de%20Uso.png)
+![https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-gymsync/blob/main/docs/img/Diagrama%20de%20Casos%20de%20Uso.png]
 
 ## Modelo ER (Projeto Conceitual)
 
-![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-gymsync/blob/main/docs/img/Modelo%20ER%20(Projeto%20Conceitual).png)
+![https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-gymsync/blob/main/docs/img/Modelo%20ER%20(Projeto%20Conceitual).png]
 
 ## Projeto da Base de Dados
 

@@ -87,7 +87,7 @@ Enumere as restrições à sua solução. Lembre-se de que as restrições geral
 Na Linguagem de modelagem unificada (UML), o diagrama de caso de uso resume os detalhes dos usuários do seu sistema (também conhecidos como atores) e as interações deles com o sistema.
 
 Características dos Diagramas de Casos de Uso:
-●Mostram um conjunto de casos de uso, atores e seus relacionamentos.
+<br>●Mostram um conjunto de casos de uso, atores e seus relacionamentos.<br>
 ●Modelam aspectos dinâmicos do sistema.
 ●Proporcionam uma representação contextual do sistema (fronteira explícita).
 ●Indicam a forma como o sistema interage com as entidades externas (atores). 

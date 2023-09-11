@@ -6,9 +6,15 @@ Esta seção detalha o problema e a ideia de solução do projeto do ponto de vi
 
 ## Arquitetura e Tecnologias
 
-Para atender os requisitos funcionais e não funcionais propomos a seguinte arquitetura.
+O projeto adotará uma arquitetura moderna e escalável para atender às necessidades do Studio Feminino. A solução será desenvolvida utilizando as seguintes tecnologias:
 
-![arquitetura](img/arquitetura.png)
+- Frontend: A interface do usuário será desenvolvida utilizando HTML, CSS e JavaScript.
+- Backend: A lógica de negócio será desenvolvida utilizando PHP e MySQL.
+
+As tecnologias escolhidas foram as mais adequadas para atender aos requisitos do projeto, que são:
+- Fácil de usar: HTML, CSS e JavaScript são tecnologias de fácil aprendizado e uso, o que facilita o desenvolvimento da interface do usuário.
+- Acessível: O PHP é uma linguagem de programação amplamente utilizada e que está disponível em uma variedade de plataformas, o que garante que a solução será acessível a um grande público.
+- Eficiente: O MySQL é um banco de dados relacional de alto desempenho, o que garante que a solução será eficiente no armazenamento e recuperação de dados.
 
 ## Project Model Canvas
 

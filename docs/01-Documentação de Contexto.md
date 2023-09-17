@@ -18,19 +18,6 @@ Conforme observado, o Stúdio personal Sabrina Marinho enfrenta uma série de de
 
 Diante desses desafios, nossa equipe reconheceu a necessidade premente de uma solução que proporcione controle operacional/financeiro eficiente, melhor comunicação e gestão de informações, sendo estas, questões críticas declaradas pelo Parceiro. Iremos atuar com foco em uma ferramenta para mitigar os problemas levantados e, trabalhar sempre com a possibilidade de inovação, podendo fazer uso de ideias levantadas pela equipe. Para entender o funcionamento específico e propor implementações futuras a reunião com o Parceiro Stúdio Personal Sabrina Marinho nos trouxe pontos que podem ser utilizados. Que são os casos de gerenciamento dos planos de aula e demonstração de progresso dos alunos, adendos de uma possível implementação.
 
-• Criar uma ficha de cadastro de clientes com os seguintes campos: nome, telefone, email, data de nascimento, objetivo e informações sobre medicação, permitindo uma melhor comunicação e acompanhamento das necessidades das clientes.
-
-• Implementar um sistema de controle de caixa básico para registrar as transações financeiras do estúdio, fornecendo uma visão clara das finanças.
-
-• Desenvolver uma interface de usuário amigável que permita o acesso das colaboradoras do Studio Feminino para registrar informações e criar fichas de treino personalizadas.
-
-•	Propiciar melhor controle de informações entre os professores;
-
-•	Gerenciamento e histórico de treinos;
-
-•	Visualização de progresso dos alunos.
-
-
 ## Justificativa
 
 A criação desta ferramenta é motivada por uma série de razões fundamentais que visam resolver problemas com o conhecimento e acesso à tecnologia aplicada como ferramenta facilitadora, melhorando significativamente a experiência tanto dos profissionais do setor quanto dos clientes. Ao abordar esses desafios fundamentais, nossa ferramenta poderá apoiar o crescimento de estúdios e melhorar a experiência dos clientes. Além disso, ela reflete nosso compromisso com a promoção da saúde e do bem-estar, tornando o fitness mais acessível, eficaz e gratificante para todos os envolvidos.

@@ -1,9 +1,5 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Esta seção detalha o problema e a ideia de solução do projeto do ponto de vista do usuário. Inclui a definição do diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais, bem como as restrições do projeto.
-
 ## Arquitetura e Tecnologias
 
 O projeto adotará uma arquitetura moderna e escalável para atender às necessidades do Studio Feminino. A solução será desenvolvida utilizando as seguintes tecnologias:
@@ -19,9 +15,6 @@ As tecnologias escolhidas foram as mais adequadas para atender aos requisitos do
 ## Project Model Canvas
 
 ![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-gymsync/blob/main/docs/img/Project%20Model%20Canvas.png)
-
-> **Links Úteis**:
-> Disponíveis em material de apoio do projeto
 
 ## Requisitos
 
@@ -54,21 +47,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-004| A aplicação web deve tratar acessos não autorizados, garantindo um alto grau de segurança. |  MÉDIA | 
 |RNF-005| A interface da aplicação deve ser amigável, ou seja deve se sentir confortável ao utilizar o site, de forma que sua experiência torne-se fácil. |  BAIXA | 
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-
 ## Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
@@ -82,22 +60,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |05| As decisões pertinentes ao projeto devem ser tomadas por meio democrático de votação        |
 |06| O projeto deve estar em conformidade com as leis e normas vigentes        |
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
 ## Diagrama de Casos de Uso
-
-Na Linguagem de modelagem unificada (UML), o diagrama de caso de uso resume os detalhes dos usuários do seu sistema (também conhecidos como atores) e as interações deles com o sistema.
-
-Características dos Diagramas de Casos de Uso:
-
-<br>●Mostram um conjunto de casos de uso, atores e seus relacionamentos.<br>
-<br>●Modelam aspectos dinâmicos do sistema.<br>
-<br>●Proporcionam uma representação contextual do sistema (fronteira explícita).<br>
-<br>●Indicam a forma como o sistema interage com as entidades externas (atores).<br>
 
 ![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-gymsync/blob/main/docs/img/Diagrama%20de%20Casos%20de%20Uso.png)
 
@@ -107,5 +70,4 @@ Características dos Diagramas de Casos de Uso:
 
 ## Projeto da Base de Dados
 
-O projeto da base de dados corresponde à representação das entidades e relacionamentos identificadas no Modelo ER, no formato de tabelas, com colunas e chaves primárias/estrangeiras necessárias para representar corretamente as restrições de integridade.![MicrosoftTeams-image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-gymsync/assets/61605610/8ab6a602-b212-407c-a831-d79cbb836aae)
-
+![MicrosoftTeams-image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-gymsync/assets/61605610/8ab6a602-b212-407c-a831-d79cbb836aae)

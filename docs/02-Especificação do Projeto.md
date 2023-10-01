@@ -24,16 +24,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O sistema deve permitir que os colaboradores façam login. | ALTA |
-|RF-002| O sistema deve permitir que os colaboradores alterem a senha. | ALTA |
-|RF-003| O sistema deve permitir gerenciar cadastro de colaboradores pelo administrador. (incluir/alterar/excluir ) | ALTA |
-|RF-004| O sistema deve permitir gerenciar cadastro e matricula de aluno. (incluir/alterar/excluir) | ALTA |
-|RF-005| O sistema deve permitir gerenciar cadastro de treino do aluno.(incluir/alterar/excluir) | ALTA |
-|RF-006| O sistema deve permitir gerenciar cadastro de mensalidade e plano. | ALTA |
-|RF-007| O sistema deve conter gerenciamento de contas a pagar e receber. | ALTA |
-|RF-008| O sistema deve gerar relatorio financeiror. | MEDIO |
-|RF-009| O sistema deve possibilitar pesquisar os alunos. | MEDIO |
-|RF-010| O sistema deve conter uma agenda/lembretes. (Data de aniversário, compromissos financeiros) | ALTA |
+|RF-001| A aplicação deve permitir que os colaboradores façam login. | ALTA |
+|RF-002| A aplicação deve permitir que os colaboradores alterem a senha. | ALTA |
+|RF-003| A aplicação deve permitir gerenciar cadastro de colaboradores pelo administrador. (incluir/alterar/excluir ) | ALTA |
+|RF-004| A aplicação deve permitir gerenciar cadastro e matricula de aluno. (incluir/alterar/excluir) | ALTA |
+|RF-005| A aplicação deve permitir gerenciar cadastro de treino do aluno.(incluir/alterar/excluir) | ALTA |
+|RF-006| A aplicação deve permitir gerenciar cadastro de mensalidade e plano. | ALTA |
+|RF-007| A aplicação deve conter gerenciamento de contas a pagar e receber. | ALTA |
+|RF-008| A aplicação deve gerar relatorio financeiror. | MEDIO |
+|RF-009| A aplicação deve possibilitar pesquisar os alunos. | MEDIO |
+|RF-010| A aplicação deve conter uma agenda/lembretes. (Data de aniversário, compromissos financeiros) | ALTA |
 |RF-011| O sistema deve conter um canal de postagem de informação geral. | ALTA |
 
 
@@ -41,7 +41,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O App ou site será publicado em um ambiente na Internet. (Azure) | ALTA | 
+|RNF-001| A aplicação será publicado em um ambiente na Internet. (Azure) | ALTA | 
 |RNF-002| A aplicação web será compatível com os principais navegadores do mercado. |  ALTA | 
 |RNF-003| A aplicação web deve ser confiável, deve atender às suas especificações. |  MÉDIA | 
 |RNF-004| A aplicação web deve tratar acessos não autorizados, garantindo um alto grau de segurança. |  MÉDIA | 
@@ -53,12 +53,12 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue no final do semestre letivo. |
-|02| O aplicativo deve se restringir às tecnologias básicas da Web de FrontEnd e Backend        |
+|01| A aplicação deverá ser entregue no final do semestre letivo. |
+|02| A aplicação deve se restringir às tecnologias básicas da Web de FrontEnd e Backend        |
 |03| A equipe não pode subcontratar terceiros para o desenvolvimento do trabalho        |
-|04| O projeto não pode ser feito por um único integrante do grupo        |
+|04| A aplicação não pode ser feito por um único integrante do grupo        |
 |05| As decisões pertinentes ao projeto devem ser tomadas por meio democrático de votação        |
-|06| O projeto deve estar em conformidade com as leis e normas vigentes        |
+|06| A aplicação deve estar em conformidade com as leis e normas vigentes        |
 
 ## Diagrama de Casos de Uso
 

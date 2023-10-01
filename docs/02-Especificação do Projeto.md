@@ -70,4 +70,4 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Projeto da Base de Dados
 
-![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-gymsync/blob/03550d6b54b3c1a1a660dada16b5640b3e68a5ce/docs/img/Diagrama%20da%20base%20dados%20REV.1.pdf)
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-gymsync/blob/main/docs/img/Diagrama%20ER%20de%20banco%20de%20dados.png)

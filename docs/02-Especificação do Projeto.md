@@ -42,10 +42,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| A aplicação será publicado em um ambiente na Internet. (Azure) | ALTA | 
-|RNF-002| A aplicação web será compatível com os principais navegadores do mercado. |  ALTA | 
-|RNF-003| A aplicação web deve ser confiável, deve atender às suas especificações. |  MÉDIA | 
-|RNF-004| A aplicação web deve tratar acessos não autorizados, garantindo um alto grau de segurança. |  MÉDIA | 
-|RNF-005| A interface da aplicação deve ser amigável, ou seja deve se sentir confortável ao utilizar o site, de forma que sua experiência torne-se fácil. |  BAIXA | 
+|RNF-002| A aplicação será compatível com os principais navegadores do mercado. |  ALTA | 
+|RNF-003| A aplicação deve ser confiável, deve atender às suas especificações. |  MÉDIA | 
+|RNF-004| A aplicação deve tratar acessos não autorizados, garantindo um alto grau de segurança. |  MÉDIA | 
+|RNF-005| A interface da aplicação terá uma UI simples e limpa buscando rápido aprendizado de usabilidade, sendo alcançado com um tempo máximo de 2 horas. |  BAIXA | 
 
 ## Restrições
 

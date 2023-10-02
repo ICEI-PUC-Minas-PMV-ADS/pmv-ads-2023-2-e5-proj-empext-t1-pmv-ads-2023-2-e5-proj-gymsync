@@ -16,6 +16,17 @@ As tecnologias escolhidas foram as mais adequadas para atender aos requisitos do
 
 ![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-gymsync/blob/main/docs/img/Project%20Model%20Canvas.png)
 
+## GitHub Project (KANBAN)
+
+O projeto Kanban do GitHub é uma ferramenta poderosa para gerenciar e visualizar o fluxo de trabalho de projetos de desenvolvimento de software. Baseado no sistema Kanban, originário do Lean Manufacturing,
+o GitHub Kanban oferece uma abordagem flexível e eficaz para organizar tarefas, acompanhar o progresso e melhorar a colaboração em equipes de desenvolvimento.
+A vantagem de usá-lo diretamente no GitHub é a integração perfeita com seus repositórios. Você pode vincular facilmente problemas, pull requests e outros itens diretamente ao seu quadro Kanban,
+o que facilita a associação de tarefas a código-fonte e oferece uma visão holística do seu projeto.
+Estamos incorcorando o modelo, haja visto a possibilidade de visão macro do controle de tarefas. O mesmo pode ser acessado através do link abaixo:
+https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/716/views/1
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-gymsync/blob/main/docs/img/KANBAN%20Git%20Project.png)
+
 ## Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade de requisitos, aplicar uma técnica de priorização de requisitos e detalhar como a técnica foi aplicada.

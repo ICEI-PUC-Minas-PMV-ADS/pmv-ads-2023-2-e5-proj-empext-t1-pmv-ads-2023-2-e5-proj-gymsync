@@ -23,8 +23,11 @@ Enumere quais cenários de testes foram selecionados para teste. Neste tópico o
 ### CT-06 - Teste Conexão BD Hospedagem
 ![Figura 1](img/teste_conexao_bd.jpg)
 
-### CT-05 - Teste Hospedagem Site
-![Figura 1](img/teste_conexao_bd.jpg)
+### CT-07 - Teste Hospedagem Site
+![Figura 1](img/teste_hospedagem_link.jpg)
+
+### CT-08 - Teste Hospedagem Site
+![Figura 1](img/teste_hospedagem_link_ok.jpg)
 
 
 Apresente imagens e/ou vídeos que comprovam que um determinado teste foi executado, e o resultado esperado foi obtido. Normalmente são screenshots de telas, ou vídeos do software em funcionamento.

@@ -6,19 +6,19 @@ Enumere quais cenários de testes foram selecionados para teste. Neste tópico o
  
 # Evidências de Testes de Software
 ### CT-01 - Tela Login
-![Figura 1](img/RF_001login.jpg)
+![Figura 1](img/RF_001_login.jpg)
 
 ### CT-02 - Login do usuário
-![Figura 1](img/RF_001login_usuario.JPG)
+![Figura 1](img/RF_001_login_usuario.JPG)
 
 ### CT-03 - Login Efetuado Usuario Permissão Restrita
-![Figura 1](img/RF_001dashboar_permissao_usuario.jpg)
+![Figura 1](img/RF_001_dashboar_permissao_usuario.jpg)
 
 ### CT-04 - Login do Administrador
-![Figura 1](img/RF_001login_administrador.JPG)
+![Figura 1](img/RF_001_login_administrador.JPG)
 
 ### CT-05 - Login Efetuado Permissão ADM
-![Figura 1](img/RF_001dashboar_permissao_adm.jpg)
+![Figura 1](img/RF_001_dashboar_permissao_adm.jpg)
 
 
 

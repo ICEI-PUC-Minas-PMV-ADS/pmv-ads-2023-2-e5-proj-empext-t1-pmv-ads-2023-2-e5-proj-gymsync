@@ -9,13 +9,13 @@ Enumere quais cenários de testes foram selecionados para teste. Neste tópico o
 ![Figura 1](img/RF_001_loginV02.jpg)
 
 ### CT-02 - Login do usuário
-![Figura 1](img/RF_001_login_usuario.JPG)
+![Figura 1](img/RF_001_login_usuarioV02.JPG)
 
 ### CT-03 - Login Efetuado Usuario Permissão Restrita
 ![Figura 1](img/RF_001_dashboar_permissao_usuario.jpg)
 
 ### CT-04 - Login do Administrador
-![Figura 1](img/RF_001_login_administrador.JPG)
+![Figura 1](img/RF_001_login_administradorV02.JPG)
 
 ### CT-05 - Login Efetuado Permissão ADM
 ![Figura 1](img/RF_001_dashboar_permissao_adm.jpg)

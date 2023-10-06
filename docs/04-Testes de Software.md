@@ -6,7 +6,7 @@ Enumere quais cenários de testes foram selecionados para teste. Neste tópico o
  
 # Evidências de Testes de Software
 ### CT-01 - Tela Login
-![Figura 1](img/RF_001_login.jpg)
+![Figura 1](img/RF_001_loginV02.jpg)
 
 ### CT-02 - Login do usuário
 ![Figura 1](img/RF_001_login_usuario.JPG)

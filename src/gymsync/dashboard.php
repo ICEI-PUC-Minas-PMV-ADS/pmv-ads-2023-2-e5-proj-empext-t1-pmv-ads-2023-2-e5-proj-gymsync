@@ -22,7 +22,7 @@
         <!--========== CSS ==========-->
         <link rel="stylesheet" href="assets/css/styles.css">
 
-        <title>Responsive sidebar submenus</title>
+        <title>GymSync</title>
     </head>
     <body>
         <!--========== HEADER ==========-->

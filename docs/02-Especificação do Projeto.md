@@ -25,7 +25,7 @@ o que facilita a associação de tarefas a código-fonte e oferece uma visão ho
 Estamos incorcorando o modelo, haja visto a possibilidade de visão macro do controle de tarefas. O mesmo pode ser acessado através do link abaixo:
 https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/716/views/1
 
-![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-gymsync/blob/main/docs/img/KANBAN%2029.10.23.png)
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-gymsync/blob/main/docs/img/KANBAN%2019.11.23.png)
 
 ## Requisitos
 

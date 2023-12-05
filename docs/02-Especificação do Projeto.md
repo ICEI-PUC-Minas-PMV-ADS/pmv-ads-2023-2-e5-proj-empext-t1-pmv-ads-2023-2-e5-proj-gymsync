@@ -40,12 +40,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-003| A aplicação deve permitir gerenciar cadastro de colaboradores pelo administrador. (incluir/alterar/excluir ) | ALTA |
 |RF-004| A aplicação deve permitir gerenciar cadastro e matricula de aluno. (incluir/alterar/excluir) | ALTA |
 |RF-005| A aplicação deve permitir gerenciar cadastro de treino do aluno.(incluir/alterar/excluir) | ALTA |
-|RF-006| A aplicação deve permitir gerenciar cadastro de mensalidade e plano. | ALTA |
+|RF-006| A aplicação deve permitir gerenciar cadastro de mensalidade. | ALTA |
 |RF-007| A aplicação deve conter gerenciamento de contas a pagar e receber. | ALTA |
-|RF-008| A aplicação deve gerar relatorio financeiror. | MEDIO |
+|RF-008| A aplicação deve gerar relatorio financeiro. | MEDIO |
 |RF-009| A aplicação deve possibilitar pesquisar os alunos. | MEDIO |
 |RF-010| A aplicação deve conter uma agenda/lembretes. (Data de aniversário, compromissos financeiros) | ALTA |
-|RF-011| O sistema deve conter um canal de postagem de informação geral. | ALTA |
 
 
 ### Requisitos não Funcionais
@@ -56,7 +55,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-002| A aplicação será compatível com os principais navegadores do mercado. |  ALTA | 
 |RNF-003| A aplicação deve ser confiável, deve atender às suas especificações. |  MÉDIA | 
 |RNF-004| A aplicação deve tratar acessos não autorizados, garantindo um alto grau de segurança. |  MÉDIA | 
-|RNF-005| A interface da aplicação terá uma UI simples e limpa buscando rápido aprendizado de usabilidade, sendo alcançado com um tempo máximo de 2 horas. |  BAIXA | 
+|RNF-005| A interface da aplicação será simples e limpa buscando rápido aprendizado de usabilidade, sendo alcançado com um tempo máximo de 2 horas. |  BAIXA | 
 
 ## Restrições
 
@@ -67,7 +66,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |01| A aplicação deverá ser entregue no final do semestre letivo. |
 |02| A aplicação deve se restringir às tecnologias básicas da Web de FrontEnd e Backend        |
 |03| A equipe não pode subcontratar terceiros para o desenvolvimento do trabalho        |
-|04| A aplicação não pode ser feito por um único integrante do grupo        |
+|04| A aplicação não pode ser feita por um único integrante do grupo        |
 |05| As decisões pertinentes ao projeto devem ser tomadas por meio democrático de votação        |
 |06| A aplicação deve estar em conformidade com as leis e normas vigentes        |
 

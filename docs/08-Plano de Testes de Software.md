@@ -34,23 +34,7 @@
 |**Passos** | 1) Na página de cadastro, insira todos os dados das alunas. <br>2) Clique em salvar. <br>3) Clique no botão alterar. <br>4) Clique em salvar.
 |**Critérios de Êxito** | "O usuário terá confirmação da mensagem de sucesso." |
 
-|Caso de Teste |CT-005 – Gerenciamento de Treinos |
-|--------------------|-----------------------------------------------------------------------------------------------------------------------|
-|**Requisitos Associados** | RF-005 - A aplicação deve permitir gerenciar cadastro de treino do aluno.(incluir/alterar/excluir).|
-|**Entrada** | A aplicação deve permitir gerenciar cadastro de treino do aluno.(incluir/alterar/excluir). |
-|**Objetivo do Teste** | Validar inclusão, alteração e exclusão de treinos. |
-|**Passos** | 1) ************** <br>2) ********* <br>3) ************. <br>4) Clicar em pagar. <br>5) ****************.
-|**Critérios de Êxito** | "**************" |
-
-|Caso de Teste |CT-006 – Gerenciar cadastro de mensalidade ou plano |
-|--------------------|-----------------------------------------------------------------------------------------------------------------------|
-|**Requisitos Associados** | RF-006 - A aplicação deve permitir gerenciar cadastro de mensalidade ou plano.|
-|**Entrada** | No cadastro da aluna vá até o campo data pagamento mensalidade. |
-|**Objetivo do Teste** | Validar o cadastro e vencimento de mensalidade. |
-|**Passos** | 1) No cadastro da aluna, vá até data de pagamento mensalidade. <br>2) Neste campo conterá o vencimento da mensalidade.
-|**Critérios de Êxito** | "O usuário escolherá sair ou analisar algum outro dado." |
-
-|Caso de Teste |CT-007 – Gerenciamento de contas a pagar e recebimentos |
+|Caso de Teste |CT-005 – Gerenciamento de contas a pagar e recebimentos |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** | RF-006 - 	A aplicação deve conter gerenciamento de contas a pagar e receber.|
 |**Entrada** | *********. |
@@ -58,37 +42,13 @@
 |**Passos** | 1) ********. <br>2) ******.
 |**Critérios de Êxito** | "***************" |
 
-|Caso de Teste |CT-008 – Geração de relatório financeiro |
-|--------------------|-----------------------------------------------------------------------------------------------------------------------|
-|**Requisitos Associados** | RF-006 - A aplicação deve gerar relatorio financeiro.|
-|**Entrada** | **********. |
-|**Objetivo do Teste** | Validar o acesso ao relatório financeiro geral. |
-|**Passos** | 1) ******. <br>2) *****.
-|**Critérios de Êxito** | "***********" |
-
-|Caso de Teste |CT-009 – Pesquisa específica por aluna |
+|Caso de Teste |CT-006 – Pesquisa específica por aluna |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** | RF-006 - A aplicação deve possibilitar pesquisar os alunos.|
 |**Entrada** | Tela de cadastro de alunas. |
 |**Objetivo do Teste** | Validar a pesquisa por alunas específicas. |
 |**Passos** | 1) Na tela de cadastro der alunas, insira o dado de sua busca. <br>2) Clique em pesquisar.
 |**Critérios de Êxito** | "O usuário visualizará a aluna mediante pesquisa" |
-
-|Caso de Teste |CT-010 – Data de aniversário e/ou compromissos financeiros |
-|--------------------|-----------------------------------------------------------------------------------------------------------------------|
-|**Requisitos Associados** | RF-006 - A aplicação deve conter uma agenda/lembretes. (Data de aniversário, compromissos financeiros).|
-|**Entrada** | *********. |
-|**Objetivo do Teste** | Validar lembrete de aniversários e/ou compromissos financeiros. |
-|**Passos** | 1) ****. <br>2) ****.
-|**Critérios de Êxito** | "****" |
-
-|Caso de Teste |CT-011 – Canal de informações |
-|--------------------|-----------------------------------------------------------------------------------------------------------------------|
-|**Requisitos Associados** | RF-006 - O sistema deve conter um canal de postagem de informação geral.|
-|**Entrada** | *****. |
-|**Objetivo do Teste** | Validar inclusão de informação geral colaboradores. |
-|**Passos** | 1) ****. <br>2) ****.
-|**Critérios de Êxito** | "*****" |
 
  
 ## Ferramentas de Testes (Opcional)

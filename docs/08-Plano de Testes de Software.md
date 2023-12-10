@@ -7,7 +7,7 @@
 |**Requisitos Associados** | RF-001 - A aplicação deve permitir que os colaboradores façam login.|
 |**Entrada** | Na página inicial, digitar o e-mail de cadastro e senha nos respectivos campos e clicar em Login. |
 |**Objetivo do Teste** | Validar acesso do usuário à plataforma através do login. |
-|**Passos** | 1) Acessar o Navegador. <br>2) Informar endereço: XXXXXXXXXXXX. <br>3) Preencher os campos usuário e senha.<br>4) Clicar no botão Login. |
+|**Passos** | 1) Acessar o Navegador. <br>2) Informar endereço: (https://studiopersonal.expertsuite.com.br/). <br>3) Preencher os campos usuário e senha.<br>4) Clicar no botão Login. |
 |**Critérios de Êxito** | "O usuário será direcionado à homepage e terá acesso ao Menu." |
 
 |Caso de Teste |CT-002 – Alteração de senha |

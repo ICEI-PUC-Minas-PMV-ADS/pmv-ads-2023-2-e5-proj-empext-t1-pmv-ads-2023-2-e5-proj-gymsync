@@ -34,15 +34,7 @@
 |**Passos** | 1) Ao fazer login na aplicação, no menu lateral esquerdo cliente em pessoas, após, clique em clientes. <br>2) Para excluir ou editar, na coluna ações localizada no final dos dados cadastrais do cliente, selecione o icone da lixeira para exclusão ou o icone de lápis para a edição. <br>3) Ao escolher o icone da lixeira(exclusão), confime clicando em sim. <br>4) Ao escolher o icone do lápis(edição), altere os dados desejados e confime clicando em salvar.
 |**Critérios de Êxito** | "O usuário será redirecionado para a tela de clientes" |
 
-|Caso de Teste |CT-005 – Gerenciamento de Mensalidade|
-|--------------------|-----------------------------------------------------------------------------------------------------------------------|
-|**Requisitos Associados** | RF-005 - 	A aplicação deve permitir gerenciar cadastro de mensalidade|
-|**Entrada** | *********. |
-|**Objetivo do Teste** | Validar o gerencimento de débitos e créditos. |
-|**Passos** | 1) ********. <br>2) ******.
-|**Critérios de Êxito** | "***************" |
-
-|Caso de Teste |CT-006 – Gerenciamento de contas a receber e despesas |
+|Caso de Teste |CT-005 – Gerenciamento de contas a receber e despesas |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** | RF-006 - 	A aplicação deve conter gerenciamento de contas a receber e despesas.|
 |**Entrada** | Tela de Financeiro |
@@ -50,7 +42,7 @@
 |**Passos** | 1) Ao realizar login, no menu superior esquerdo clique em financeiro e clique em contas a receber. Ao obter acesso as contas, clique no botão "+Receber", que se encontra no canto superior esquerdo. Logo em seguida insira os dados solicitados e clique em salvar. <br>2) Para excluir ou editar, na coluna ações localizada no final dos dados de contas a receber e despesas, selecione o icone da lixeira para exclusão ou o icone de lápis para a edição. <br>3) Ao escolher o icone da lixeira(exclusão), confime clicando em sim. <br>4) Ao escolher o icone do lápis(edição), altere os dados desejados e confime clicando em salvar.
 |**Critérios de Êxito** | "O usuário será redirecionado para a tela de financeiro" |
 
-|Caso de Teste |CT-007 – Pesquisa específica por cliente |
+|Caso de Teste |CT-006 – Pesquisa específica por cliente |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** | RF-007 - A aplicação deve possibilitar pesquisar cliente.|
 |**Entrada** | Tela de pessoas na aba de clientes. |

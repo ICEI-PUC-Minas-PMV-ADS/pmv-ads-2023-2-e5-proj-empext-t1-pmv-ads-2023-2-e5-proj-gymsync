@@ -22,7 +22,6 @@ Como demonstra o resultado do teste acima, ...
 |CT-002 – Alteração de senha | Permite que o usuário altere a senha| | Com Problema |
 |CT-003 – Gerenciamento de Colaboradores| Permite gerenciar cadastro de colaboradores pelo administrador.| |Funcionando |
 |CT-004 – Gerenciamento de Cadastro de Clientes| Permite gerenciar cadastro de clientes.|  |Funcionando |
-|CT-005 – Gerenciamento de Mensalidade| Permite permitir gerenciar cadastro de mensalidade.|  | Funcionando |
-|CT-006 – Gerenciamento de contas a receber e despesas| Permite gerenciar de contas a receber e despesas.|  | Funcionando |
-|CT-007 – Pesquisa específica por cliente|Permite pesquisar cliente. |  | Funcionando |
+|CT-005 – Gerenciamento de contas a receber e despesas| Permite gerenciar de contas a receber e despesas.|  | Funcionando |
+|CT-006 – Pesquisa específica por cliente|Permite pesquisar cliente. |  | Funcionando |
 

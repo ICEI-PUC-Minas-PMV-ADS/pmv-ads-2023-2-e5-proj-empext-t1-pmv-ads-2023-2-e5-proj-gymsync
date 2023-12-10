@@ -39,12 +39,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-002| A aplicação deve permitir que os colaboradores alterem a senha. | ALTA |
 |RF-003| A aplicação deve permitir gerenciar cadastro de colaboradores pelo administrador. (incluir/alterar/excluir ) | ALTA |
 |RF-004| A aplicação deve permitir gerenciar cadastro e matricula de aluno. (incluir/alterar/excluir) | ALTA |
-|RF-005| A aplicação deve permitir gerenciar cadastro de treino do aluno.(incluir/alterar/excluir) | ALTA |
-|RF-006| A aplicação deve permitir gerenciar cadastro de mensalidade. | ALTA |
-|RF-007| A aplicação deve conter gerenciamento de contas a pagar e receber. | ALTA |
-|RF-008| A aplicação deve gerar relatorio financeiro. | MEDIO |
-|RF-009| A aplicação deve possibilitar pesquisar os alunos. | MEDIO |
-|RF-010| A aplicação deve conter uma agenda/lembretes. (Data de aniversário, compromissos financeiros) | ALTA |
+|RF-005| A aplicação deve permitir gerenciar cadastro de mensalidade. | ALTA |
+|RF-006| A aplicação deve conter gerenciamento de contas a pagar e receber. | ALTA |
+|RF-007| A aplicação deve possibilitar pesquisar os alunos. | MEDIO |
+
 
 
 ### Requisitos não Funcionais

@@ -40,7 +40,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-003| A aplicação deve permitir gerenciar cadastro de colaboradores pelo administrador. (incluir/alterar/excluir ) | ALTA |
 |RF-004| A aplicação deve permitir gerenciar cadastro de clientes. (incluir/alterar/excluir) | ALTA |
 |RF-005| A aplicação deve permitir gerenciar cadastro de mensalidade. | ALTA |
-|RF-006| A aplicação deve conter gerenciamento de contas a pagar e receber. | ALTA |
+|RF-006| A aplicação deve conter gerenciamento de contas a receber e despesas.| ALTA |
 |RF-007| A aplicação deve possibilitar pesquisar os alunos. | MEDIO |
 
 

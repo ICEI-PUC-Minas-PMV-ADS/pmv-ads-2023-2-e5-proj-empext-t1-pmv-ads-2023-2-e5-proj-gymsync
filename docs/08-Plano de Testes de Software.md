@@ -5,7 +5,7 @@
 |Caso de Teste |CT-001 – Login do usuário |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** | RF-001 - A aplicação deve permitir que o administrador faça login.|
-|**Entrada** | Na página inicial, digitar o e-mail de cadastro e senha nos respectivos campos e clicar em Login. |
+|**Entrada** | Na página de login (home page), digitar o e-mail de cadastro e senha nos respectivos campos e clicar em Login. |
 |**Objetivo do Teste** | Validar acesso do usuário à plataforma através do login. |
 |**Passos** | 1) Acessar o Navegador. <br>2) Informar endereço: (https://studiopersonal.expertsuite.com.br/). <br>3) Preencher os campos usuário e senha.<br>4) Clicar no botão Login. |
 |**Critérios de Êxito** | "O usuário será direcionado à homepage e terá acesso ao Menu." |
@@ -13,7 +13,7 @@
 |Caso de Teste |CT-002 – Alteração de senha |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** | RF-002 - A aplicação deve permitir que o administrador altere a senha.|
-|**Entrada** | Na página inicial, ao fazer login, clicar no botão "recuperar senha". |
+|**Entrada** | Na página de login, clique no botão "recuperar senha". |
 |**Objetivo do Teste** | Validar alteração de senha. |
 |**Passos** | 1) Após clicar em "recuperar senha". <br>2) Insira sua nova senha e clique no botão salvar.
 |**Critérios de Êxito** | "O usuário será direcionado para a página inicial." |
@@ -21,7 +21,7 @@
 |Caso de Teste |CT-003 – Gerenciamento de Colaboradores |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
 |**Requisitos Associados** | RF-003 - A aplicação deve permitir gerenciar cadastro de colaboradores pelo administrador. (incluir/alterar/excluir ).|
-|**Entrada** | ***********. |
+|**Entrada** | Na página "Pessoas". |
 |**Objetivo do Teste** | Incluir, alterar e cadastrar colaboradores. |
 |**Passos** | 1) Ao realizar login, no menu esquerdo superior, clique em "pessoas" depois em "funcionarios". <br>2) Localize o cadastro do colaborador desejado na coluna "ações" e solecione a opção desejada (editar, excluir ou desativatar usuário).
 |**Critérios de Êxito** | "O usuário confimará a ação no botão salvar" |

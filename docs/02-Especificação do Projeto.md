@@ -35,8 +35,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| A aplicação deve permitir que os administrador faça login. | ALTA |
-|RF-002| A aplicação deve permitir que os administrador altere a senha. | ALTA |
+|RF-001| A aplicação deve permitir que o administrador faça login. | ALTA |
+|RF-002| A aplicação deve permitir que o administrador altere a senha. | ALTA |
 |RF-003| A aplicação deve permitir gerenciar cadastro de colaboradores pelo administrador. (incluir/alterar/excluir ) | ALTA |
 |RF-004| A aplicação deve permitir gerenciar cadastro de clientes. (incluir/alterar/excluir) | ALTA |
 |RF-005| A aplicação deve permitir gerenciar cadastro de mensalidade. | ALTA |

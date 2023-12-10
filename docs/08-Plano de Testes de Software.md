@@ -4,7 +4,7 @@
 
 |Caso de Teste |CT-001 – Login do usuário |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
-|**Requisitos Associados** | RF-001 - A aplicação deve permitir que os colaboradores façam login.|
+|**Requisitos Associados** | RF-001 - A aplicação deve permitir que o administrador faça login.|
 |**Entrada** | Na página inicial, digitar o e-mail de cadastro e senha nos respectivos campos e clicar em Login. |
 |**Objetivo do Teste** | Validar acesso do usuário à plataforma através do login. |
 |**Passos** | 1) Acessar o Navegador. <br>2) Informar endereço: (https://studiopersonal.expertsuite.com.br/). <br>3) Preencher os campos usuário e senha.<br>4) Clicar no botão Login. |
@@ -12,10 +12,10 @@
 
 |Caso de Teste |CT-002 – Alteração de senha |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
-|**Requisitos Associados** | RF-002 - A aplicação deve permitir que os colaboradores alterem a senha.|
-|**Entrada** | Na página inicial, ao fazer login, clica no botão "esqueci minha senha". |
+|**Requisitos Associados** | RF-002 - A aplicação deve permitir que o administrador altere a senha.|
+|**Entrada** | Na página inicial, ao fazer login, clicar no botão "recuperar senha". |
 |**Objetivo do Teste** | Validar alteração de senha. |
-|**Passos** | 1) Após clicar em "esqueci minha senha". <br>2) Escolher sua nova senha e clicar no botão salvar.
+|**Passos** | 1) Após clicar em "recuperar senha". <br>2) Insira sua nova senha e clique no botão salvar.
 |**Critérios de Êxito** | "O usuário será direcionado para a página inicial." |
 
 |Caso de Teste |CT-003 – Gerenciamento de Colaboradores |
@@ -23,16 +23,16 @@
 |**Requisitos Associados** | RF-003 - A aplicação deve permitir gerenciar cadastro de colaboradores pelo administrador. (incluir/alterar/excluir ).|
 |**Entrada** | ***********. |
 |**Objetivo do Teste** | Incluir, alterar e cadastrar colaboradores. |
-|**Passos** | 1) Clicando em cadastrar, na próxima tela, preencha os dados pessoais do colaborador e clique em salvar. <br>2) Localize o cadastro do colaborador e clique em editar, posteriormente insira os novos dados e salve. <br>3) Localize o cadastro do colaborador e clique em deletar.
-|**Critérios de Êxito** | "O usuário encontrará a mensagem de confirmação da ação" |
+|**Passos** | 1) Ao realizar login, no menu esquerdo superior, clique em "pessoas" depois em "funcionarios". <br>2) Localize o cadastro do colaborador desejado na coluna "ações" e solecione a opção desejada (editar, excluir ou desativatar usuário).
+|**Critérios de Êxito** | "O usuário confimará a ação no botão salvar" |
 
-|Caso de Teste |CT-004 – Gerenciamento de Alunas |
+|Caso de Teste |CT-004 – Gerenciamento de Cadastro de Clientes |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
-|**Requisitos Associados** | RF-004 - A aplicação deve permitir gerenciar cadastro e matricula de aluno. (incluir/alterar).|
+|**Requisitos Associados** | RF-004 - A aplicação deve permitir gerenciar cadastro de clientes. (incluir/alterar/excluir).|
 |**Entrada** | Página de cadastro de alunas. |
 |**Objetivo do Teste** | Validar a inclusão, e edição de dados de alunas.|
-|**Passos** | 1) Na página de cadastro, insira todos os dados das alunas. <br>2) Clique em salvar. <br>3) Clique no botão alterar. <br>4) Clique em salvar.
-|**Critérios de Êxito** | "O usuário terá confirmação da mensagem de sucesso." |
+|**Passos** | 1) Ao fazer login na aplicação, no menu lateral esquerdo cliente em pessoas, após, clique em clientes. <br>2) Para excluir ou editar, na coluna ações localizada no final dos dados cadastrais do cliente, selecione o icone da lixeira para exclusão ou o icone de lápis para a edição. <br>3) Ao escolher o icone da lixeira(exclusão), confime clicando em sim. <br>4) Ao escolher o icone do lápis(edição), altere os dados desejados e confime clicando em salvar.
+|**Critérios de Êxito** | "O usuário será redirecionado para a tela de clientes" |
 
 |Caso de Teste |CT-005 – Gerenciamento de contas a pagar e recebimentos |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
@@ -42,22 +42,18 @@
 |**Passos** | 1) ********. <br>2) ******.
 |**Critérios de Êxito** | "***************" |
 
-|Caso de Teste |CT-006 – Pesquisa específica por aluna |
+|Caso de Teste |CT-006 – Gerenciamento de contas a receber e despesas |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
-|**Requisitos Associados** | RF-006 - A aplicação deve possibilitar pesquisar os alunos.|
-|**Entrada** | Tela de cadastro de alunas. |
-|**Objetivo do Teste** | Validar a pesquisa por alunas específicas. |
-|**Passos** | 1) Na tela de cadastro der alunas, insira o dado de sua busca. <br>2) Clique em pesquisar.
-|**Critérios de Êxito** | "O usuário visualizará a aluna mediante pesquisa" |
+|**Requisitos Associados** | RF-006 - 	A aplicação deve conter gerenciamento de contas a receber e despesas.|
+|**Entrada** | Tela de Financeiro |
+|**Objetivo do Teste** | Gerenciar contas a receber e despesas. |
+|**Passos** | 1) Ao realizar login, no menu superior esquerdo clique em financeiro e clique em contas a receber. Ao obter acesso as contas, clique no botão "+Receber", que se encontra no canto superior esquerdo. Logo em seguida insira os dados solicitados e clique em salvar. <br>2) Para excluir ou editar, na coluna ações localizada no final dos dados de contas a receber e despesas, selecione o icone da lixeira para exclusão ou o icone de lápis para a edição. <br>3) Ao escolher o icone da lixeira(exclusão), confime clicando em sim. <br>4) Ao escolher o icone do lápis(edição), altere os dados desejados e confime clicando em salvar.
+|**Critérios de Êxito** | "O usuário será redirecionado para a tela de financeiro" |
 
- 
-## Ferramentas de Testes (Opcional)
-
-Comente sobre as ferramentas de testes utilizadas.
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> - [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+|Caso de Teste |CT-007 – Pesquisa específica por cliente |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**Requisitos Associados** | RF-007 - A aplicação deve possibilitar pesquisar cliente.|
+|**Entrada** | Tela de pessoas na aba de clientes. |
+|**Objetivo do Teste** | Validar a pesquisa por cliente específico. |
+|**Passos** | 1) Ao realizar login, no menu superior esquerdo, clique em pessoas e clique em clientes. Ao obter acesso a lista de clientes, clique na caixa de pesquisa, localizada no canto superior direito(buscar). Logo em seguida realize a pesquisa de acordo com o cliente desejado.
+|**Critérios de Êxito** | "O usuário visualizará o cliente desejado mediante pesquisa" |

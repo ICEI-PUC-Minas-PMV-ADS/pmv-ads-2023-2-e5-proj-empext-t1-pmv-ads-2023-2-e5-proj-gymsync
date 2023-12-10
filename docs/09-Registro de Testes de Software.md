@@ -5,21 +5,7 @@ A
 
 Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
 
-
-### CT-01 - Tela Login
-![Figura 1](img/RF_001_loginV02.jpg)
-
-### CT-02 - Login do usuário
-![Figura 1](img/RF_001_login_usuarioV02.jpg)
-
-### CT-03 - Login Efetuado Usuario Permissão Restrita
-![Figura 1](img/RF_001_dashboar_permissao_usuario.jpg)
-
-### CT-04 - Login do Administrador
-![Figura 1](img/RF_001_login_administradorV02.jpg)
-
-### CT-05 - Login Efetuado Permissão ADM
-![Figura 1](img/RF_001_dashboar_permissao_adm.jpg)
+![Figura 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-gymsync/blob/main/docs/img/Video%20Registro%20de%20Testes%20de%20Software.mp4)
 
 
 

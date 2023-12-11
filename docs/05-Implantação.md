@@ -4,4 +4,4 @@
 
 •	Apresentar o planejamento de evolução da aplicação.
 
-https://gymsync.expertsuite.com.br
+https://studiopersonal.expertsuite.com.br/

@@ -4,6 +4,8 @@ Faça uma apresentação de um resumo de todos o processo de desenvolvimento e n
 ## Apresentação da aplicação visão do aluno
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-gymsync/assets/90925373/02281c34-15da-41c4-9f65-5dce413edac9
 
+# Slides de apresentação
+[Apresentação Slides GymSync.pptx](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-gymsync/files/13642466/Apresentacao.Slides.GymSync.pptx)
 
 
 ## Diagrama de Casos de Uso
